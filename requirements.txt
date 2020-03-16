@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib
 scikit-learn
-tensorflow
 wandb
 jupyter
